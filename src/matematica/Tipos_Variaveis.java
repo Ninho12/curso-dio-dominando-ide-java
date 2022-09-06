@@ -12,6 +12,9 @@ public class Tipos_Variaveis {
 	
 	public static void main(String[] args) {
 		
+		// Variaveis logicas
+		boolean v1, v2;
+		
 		// Variaveis inteiras
 		byte kiloByte, megaByte;
 		short a, b;
