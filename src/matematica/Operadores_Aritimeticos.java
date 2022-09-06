@@ -2,6 +2,12 @@ package matematica;
 
 import java.util.Scanner;
 
+/*
+ * Neste exercicios eu aprendi mais sobre os operadores aritimetricos
+ * são muito importante para fazer calculos simples e complexos.
+ * 
+ * */
+
 public class Operadores_Aritimeticos {
 
 	public static void main(String[] args) {
