@@ -1,5 +1,13 @@
 package matematica;
 
+/*
+ * Neste projeto eu aprendi a escrever as 
+ * variaveis no java de maneira correta sem
+ * dar erro no java e seguindo as boas praticas
+ * da programação.
+ * 
+ * */
+
 public class Variaveis {
 	
 	public static void main(String[] args) {
