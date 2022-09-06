@@ -1,5 +1,13 @@
 package matematica;
 
+/*
+ * Com esse projeto eu aprendi os tipos
+ * de variaveis primitivas que são muito 
+ * uteis no uso do dia a dia com a programação
+ * java.
+ * 
+ * */
+
 public class Tipos_Variaveis {
 	
 	public static void main(String[] args) {
