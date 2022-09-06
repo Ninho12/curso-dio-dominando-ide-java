@@ -7,6 +7,10 @@ public class Gato {
 	private String cor;
 	
 
+	public  Gato(String nome) {
+		this.nome = nome;
+		
+	}
 	
 	public String getNome() {
 		return nome;
