@@ -6,10 +6,12 @@ public class Gato {
 	private Integer idade;
 	private String cor;
 	
+	
 
 	public  Gato(String nome) {
 		this.nome = nome;
-		
+		this.idade = 2;
+		this.cor = "Preto";
 	}
 	
 	public String getNome() {
@@ -35,7 +37,7 @@ public class Gato {
 	
 	public void falar() {
 		
-		System.out.println("Meu nome eh"+ this.nome);
+		System.out.println("Meu nome eh "+ this.nome);
 		System.out.println("Minha idade eh: "+ this.idade);
 		System.out.println("Minha cor eh: "+ this.cor);
 	}
